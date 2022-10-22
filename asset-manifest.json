@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.12072db4.js",
-    "index.html": "/index.html",
-    "main.12072db4.js.map": "/static/js/main.12072db4.js.map"
+    "main.css": "/vr-chat/static/css/main.31d6cfe0.css",
+    "main.js": "/vr-chat/static/js/main.12072db4.js",
+    "index.html": "/vr-chat/index.html",
+    "main.12072db4.js.map": "/vr-chat/static/js/main.12072db4.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
