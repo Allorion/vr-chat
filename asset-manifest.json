@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/vr-chat/static/css/main.31d6cfe0.css",
+    "main.js": "/vr-chat/static/js/main.d27bc4bd.js",
+    "index.html": "/vr-chat/index.html",
+    "main.d27bc4bd.js.map": "/vr-chat/static/js/main.d27bc4bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d27bc4bd.js"
+  ]
+}
