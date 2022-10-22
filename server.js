@@ -11,7 +11,7 @@ const ACTIONS = require('./src/socket/actions')
 function getClientRooms() {
     const {rooms} = io.sockets.adapter;
 
-    return Array.from(rooms.keys())
+    return Array.from(rooms.keys()).filter(roomID => validate(roomID) && version(roomID) === 4)
 }
 
 function shareRoomsInfo() {
