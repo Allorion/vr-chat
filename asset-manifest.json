@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/vr-chat/static/css/main.e7d51e18.css",
-    "main.js": "/vr-chat/static/js/main.ea63399b.js",
+    "main.js": "/vr-chat/static/js/main.0a8e5b2e.js",
     "static/media/avatar_group.jpg": "/vr-chat/static/media/avatar_group.0387a4a749bae5332a93.jpg",
     "static/media/plashandusi.jpg": "/vr-chat/static/media/plashandusi.97bc42039a05586e40f9.jpg",
     "static/media/futbolka.jpg": "/vr-chat/static/media/futbolka.69d228fce6b20008a94c.jpg",
     "static/media/banka.jpg": "/vr-chat/static/media/banka.04115af6ff7f079b80ca.jpg",
     "index.html": "/vr-chat/index.html",
     "main.e7d51e18.css.map": "/vr-chat/static/css/main.e7d51e18.css.map",
-    "main.ea63399b.js.map": "/vr-chat/static/js/main.ea63399b.js.map"
+    "main.0a8e5b2e.js.map": "/vr-chat/static/js/main.0a8e5b2e.js.map"
   },
   "entrypoints": [
     "static/css/main.e7d51e18.css",
-    "static/js/main.ea63399b.js"
+    "static/js/main.0a8e5b2e.js"
   ]
 }
